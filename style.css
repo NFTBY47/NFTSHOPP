@@ -1,0 +1,71 @@
+.boddy {
+    background-color: burlywood;
+}
+
+.img-first {
+  border-radius: 15em 15em 15em; 
+  margin-top: -20px; 
+}
+
+.game {
+    background-color:chocolate;
+    
+    border-radius: 3em 3em 3em;
+    border: 5px solid;
+    
+}
+
+.hrr {
+    margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 95%;
+    
+}
+
+.shop{
+    background-color:chocolate;
+    
+    border-radius: 3em 3em 3em;
+    border: 5px solid;
+}
+
+.h22 {
+    color:rgb(36, 131, 131);
+    text-transform: uppercase;
+}
+
+.donate-qr {
+    width: 250px;
+    box-shadow: 1em 1em 1em black;
+    border-radius: 1em 1em 1em;
+}
+
+.tg {
+    background-color:chocolate;
+    
+    border-radius: 3em 3em 3em;
+    border: 5px solid;
+}
+
+.nft-name {
+    color: rgb(104, 69, 101);
+    text-decoration:  underline; 
+}
+
+.english-img {
+    width: 300px;
+    border-radius: 5em 5em 5em;
+    box-shadow: 1em 1em 1em rgb(143, 124, 12);
+}
+
+.english {
+    text-align: center;
+    text-decoration: double;
+    
+}
+
+ 
